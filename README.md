@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Makdoud Walid, and I am a computer science student with a strong interest in networks and cybersecurity. My goal is to become a network administrator, where I can apply both my technical knowledge and my analytical problem-solving skills. I have experience with several programming languages and tools, including C, Python, PHP, HTML, CSS, JavaScript, and MATLAB, as well as operating systems like Linux and Windows. I am also familiar with Git for version control. I enjoy tackling challenges, finding effective solutions, and continuously improving my skills in IT and security.
+My name is Makdoud Walid, and I am a computer science student with a strong interest in networks and cybersecurity. My goal is to become a Network Architect, where I can apply both my technical knowledge and my analytical problem-solving skills. I have experience with several programming languages and tools, including C, Python, PHP, HTML, CSS, JavaScript, and MATLAB, as well as operating systems like Linux and Windows. I am also familiar with Git for version control. I enjoy tackling challenges, finding effective solutions, and continuously improving my skills in IT and security.
 
 
 ## 🌐 Socials:
